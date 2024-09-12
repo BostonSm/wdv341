@@ -1,0 +1,6 @@
+git version control software: Allows teams to have multiple copies of a project on local systems.
+git add: a way to let git know there is a update for a particular file.
+git commit: captures a current status of the local system.
+git push: takes what was originally captured and pushes to the system repo.
+git pull: can fetch and download content from a repo and updates the local repo to match.
+git clone: allows you to clone a repo into a specific directory.
