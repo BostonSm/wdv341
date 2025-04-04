@@ -1,0 +1,16 @@
+# Ignore sensitive files
+.env
+dbconnect.php
+
+# Ignore IDE and editor files
+.vscode/
+.idea/
+
+# Ignore system files
+Thumbs.db
+.DS_Store
+
+# Ignore build and dependency files
+node_modules/
+dist/
+*.log
